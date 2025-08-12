@@ -1,0 +1,5 @@
+alias ll='ls -alF'
+alias gs='git status -sb'
+alias ga='git add -A'
+alias gc='git commit -m'
+alias gp='git push'
